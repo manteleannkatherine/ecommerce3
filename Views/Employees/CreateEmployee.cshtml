@@ -1,0 +1,68 @@
+﻿@model Employees
+
+@{
+    ViewData["Title"] = "Add New Employee";
+}
+
+<div class="row text">
+    <div class="col-md-10 offset-md-1">
+        <p>
+            <h4>Add New Employee</h4>
+        </p>
+
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+                <form asp-action="CreateEmployee">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group text-center">
+                        <img id="ImagePreview" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Image" class="control-label"></label>
+                        <input asp-for="Image" class="form-control" />
+                        <span asp-validation-for="Image" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="EmployeeFirstName" class="control-label"></label>
+                        <input asp-for="EmployeeFirstName" class="form-control" />
+                        <span asp-validation-for="EmployeeFirstName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="EmployeeLastName" class="control-label"></label>
+                        <input asp-for="EmployeeLastName" class="form-control" />
+                        <span asp-validation-for="EmployeeLastName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="EmployeeBirthday" class="control-label"></label>
+                        <input asp-for="EmployeeBirthday" class="form-control" />
+                        <span asp-validation-for="EmployeeBirthday" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="EmployeeEmail" class="control-label"></label>
+                        <input asp-for="EmployeeEmail" class="form-control" />
+                        <span asp-validation-for="EmployeeEmail" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-success float-right" />
+                        <a class="btn btn-outline-secondary" asp-action="Index">Show All</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $("#Image").on("change", function () {
+            var output = document.getElementById('ImagePreview');
+            output.src = $(this).val();
+        })
+    </script>
+}

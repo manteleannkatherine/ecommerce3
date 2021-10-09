@@ -1,0 +1,257 @@
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.exe
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.deps.json
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.runtimeconfig.json
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.runtimeconfig.dev.json
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.pdb
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.Views.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.Views.pdb
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.csproj.AssemblyReference.cache
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.AssemblyInfoInputs.cache
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.AssemblyInfo.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.csproj.CoreCompileInputs.cache
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorAssemblyInfo.cache
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorAssemblyInfo.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce1.StaticWebAssets.Manifest.cache
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce1.StaticWebAssets.xml
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce1.styles.css
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.TagHelpers.input.cache
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.TagHelpers.output.cache
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorCoreGenerate.cache
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorTargetAssemblyInfo.cache
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorTargetAssemblyInfo.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.Views.pdb
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.pdb
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.genruntimeconfig.cache
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.csproj.CopyComplete
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\bin\Debug\netcoreapp3.1\package.json
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Products\CardView.cshtml.g.cs
+C:\Users\mante\Documents\Work\Freelance\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Products\CreateProduct.cshtml.g.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.exe
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.deps.json
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.runtimeconfig.json
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.runtimeconfig.dev.json
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.pdb
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.Views.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.Views.pdb
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.csproj.AssemblyReference.cache
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.AssemblyInfoInputs.cache
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.AssemblyInfo.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.csproj.CoreCompileInputs.cache
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorAssemblyInfo.cache
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorAssemblyInfo.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce1.StaticWebAssets.Manifest.cache
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce1.StaticWebAssets.xml
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce1.styles.css
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.TagHelpers.input.cache
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.TagHelpers.output.cache
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorCoreGenerate.cache
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Products\CardView.cshtml.g.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Products\CreateProduct.cshtml.g.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorTargetAssemblyInfo.cache
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorTargetAssemblyInfo.cs
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.Views.pdb
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.csproj.CopyComplete
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.dll
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.pdb
+C:\Users\Tv5Contestant2\Desktop\My files\Thesis Related\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.genruntimeconfig.cache
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.exe
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.Views.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\package.json
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.csproj.AssemblyReference.cache
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.AssemblyInfoInputs.cache
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.AssemblyInfo.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.csproj.CoreCompileInputs.cache
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.MvcApplicationPartsAssemblyInfo.cache
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorAssemblyInfo.cache
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorAssemblyInfo.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce1.StaticWebAssets.Manifest.cache
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce1.StaticWebAssets.xml
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce1.styles.css
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.TagHelpers.input.cache
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.TagHelpers.output.cache
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorCoreGenerate.cache
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Products\CreateProduct.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorTargetAssemblyInfo.cache
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.RazorTargetAssemblyInfo.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.Views.pdb
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.csproj.CopyComplete
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.dll
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.pdb
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.deps.json
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.runtimeconfig.json
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.runtimeconfig.dev.json
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.pdb
+D:\Ann\ECommerce1\ECommerce1\bin\Debug\netcoreapp3.1\ECommerce1.Views.pdb
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\ECommerce1.genruntimeconfig.cache
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Customers\CreateCustomer.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Employees\Index.cshtml.g.cs
+D:\Ann\ECommerce1\ECommerce1\obj\Debug\netcoreapp3.1\Razor\Views\Employees\CreateEmployee.cshtml.g.cs
