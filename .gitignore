@@ -371,6 +371,7 @@ MigrationBackup/
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode
 bin/*
 OBJ/*
+.vs/*
 .idea/
 ./obj
 ./build
