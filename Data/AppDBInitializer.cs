@@ -17,6 +17,25 @@ namespace ECommerce1.Data
                 var context = serviceScope.ServiceProvider.GetService<AppDBContext>();
                 context.Database.EnsureCreated();
 
+                #region Gender
+                if (!context.Genders.Any())
+                {
+                    context.Genders.AddRange(new List<Gender>()
+                    {
+                        new Gender()
+                        {
+                            Title = "Men"
+                        },
+                        new Gender()
+                        {
+                            Title = "Women"
+                        },
+                    });
+
+                    context.SaveChanges();
+                }
+                #endregion Gender
+
                 #region Customers
                 if (!context.Customers.Any())
                 {
@@ -51,26 +70,6 @@ namespace ECommerce1.Data
                 }
                 #endregion Employees
 
-                #region Product
-                if (!context.Products.Any())
-                {
-                    context.Products.AddRange(new List<Product>()
-                    {
-                        new Product()
-                        {
-                            Name = "Adidas",
-                            Description = "Adidas",
-                            ProductCategoryId = (int)ProductCategoryEnum.TShirt,
-                            StatusId = (int)StatusEnum.Active,
-                            DateCreated = DateTime.Now,
-                            Image = "https://dotnethow.net/images/cinemas/cinema-5.jpeg"
-                }
-                    }); ;
-
-                    context.SaveChanges();
-                }
-                #endregion Product
-
                 #region Status
                 if (!context.Statuses.Any())
                 {
@@ -101,19 +100,15 @@ namespace ECommerce1.Data
                     {
                         new ProductCategory()
                         {
-                            Title = "T-Shirt"
+                            Title = "Shoes"
                         },
                         new ProductCategory()
                         {
-                            Title = "Shorts"
+                            Title = "Clothing"
                         },
                         new ProductCategory()
                         {
-                            Title = "Jacket"
-                        },
-                        new ProductCategory()
-                        {
-                            Title = "Bag"
+                            Title = "Accessories"
                         },
                     });
 
@@ -122,23 +117,25 @@ namespace ECommerce1.Data
                 #endregion Product Category
 
                 #region Product
-                if (!context.Products.Any()) {
+                if (!context.Products.Any())
+                {
                     context.Products.AddRange(new List<Product>()
                     {
                         new Product()
                         {
                             Name = "Adidas",
                             Description = "Adidas",
-                            ProductCategoryId = (int)ProductCategoryEnum.TShirt,
+                            ProductCategoryId = (int)ProductCategoryEnum.Clothing,
                             StatusId = (int)StatusEnum.Active,
                             DateCreated = DateTime.Now,
-                            Image = "https://dotnethow.net/images/cinemas/cinema-5.jpeg"
+                            GenderId = (int)GenderEnum.Men
                 }
                     }); ;
 
                     context.SaveChanges();
                 }
                 #endregion Product
+
             }
         }
     }

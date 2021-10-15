@@ -3,6 +3,7 @@ using ECommerce1.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace ECommerce1.Data.Services
@@ -42,5 +43,17 @@ namespace ECommerce1.Data.Services
         {
             throw new NotImplementedException();
         }
+
+        public Product InitializeProduct() {
+            var _result = new Product()
+            {
+                ProductCategories =  _context.ProductCategories.ToList(),
+                Statuses =  _context.Statuses.ToList(),
+                Genders =  _context.Genders.ToList()
+            };
+
+         return _result;
+        }
+
     }
 }

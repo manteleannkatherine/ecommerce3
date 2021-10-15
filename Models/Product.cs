@@ -1,7 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ECommerce1.Models
 {
@@ -28,6 +30,15 @@ namespace ECommerce1.Models
         [Display(Name = "Status")]
         public int StatusId { get; set; }
         public IEnumerable<Status> Statuses { get; set; }
+
+        [Required]
+        [Display(Name = "Gender")]
+        public int GenderId { get; set; }
+        public IEnumerable<Gender> Genders { get; set; }
+
+        [NotMapped]
+        [Display(Name = "Upload Image File")]
+        public IFormFile ImageFile { get; set; }
 
     }
 }

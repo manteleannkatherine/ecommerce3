@@ -11,5 +11,6 @@ namespace ECommerce1.Data.Services.Interfaces
         public void CreateProduct (Product product);
         public Product UpdateProduct(long Id, Product product);
         public Task<bool> DeleteProduct(long Id);
+        Product InitializeProduct();
     }
 }
