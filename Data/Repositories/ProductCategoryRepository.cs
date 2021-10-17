@@ -15,13 +15,13 @@ namespace ECommerce1.Data.Repositories
                     Title = "T-Shirt"
                 },
                 new ProductCategory
-                { 
+                {
                     Id = 2,
                     Title = "Jacket"
                 }
             };
 
             return categories;
+            }
         }
-    }
 }

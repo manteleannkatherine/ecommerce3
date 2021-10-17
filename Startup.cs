@@ -19,21 +19,6 @@ namespace ECommerce1
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
-        {
-            // DBContext configuration
-            services.AddDbContext<AppDBContext>(context => 
-                context.UseSqlServer(Configuration.GetConnectionString("DefaultConnectionString")));
-
-            // Services Configuration
-            services.AddScoped<ICustomersService, CustomersService>();
-            services.AddScoped<IEmployeesService, EmployeesService>();
-            services.AddScoped<IProductsService, ProductsService>();
-
-            services.AddControllersWithViews();
-        }
-
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
@@ -63,6 +48,21 @@ namespace ECommerce1
 
             // Seed Database
             AppDBInitializer.Seed(app);
+        }
+
+        // This method gets called by the runtime. Use this method to add services to the container.
+        public void ConfigureServices(IServiceCollection services)
+        {
+            // DBContext configuration
+            services.AddDbContext<AppDBContext>(context =>
+                context.UseSqlServer(Configuration.GetConnectionString("DefaultConnectionString")));
+
+            // Services Configuration
+            services.AddScoped<ICustomersService, CustomersService>();
+            services.AddScoped<IEmployeesService, EmployeesService>();
+            services.AddScoped<IProductsService, ProductsService>();
+
+            services.AddControllersWithViews();
         }
     }
 }

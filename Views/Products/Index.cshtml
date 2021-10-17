@@ -29,7 +29,7 @@
                                 @Html.DisplayFor(modelItem => item.Id)
                             </td>
                             <td class="align-middle col-lg-auto">
-                                <img alt="@item.Name" style="max-width: 150px" src="@item.Image"/>
+                                <img alt="@item.Name" src="@String.Format("data:image/jpg;base64,{0}", item.Image)" width="150" height="150" />
                             </td>
                             <td class="align-middle col-lg-auto">
                                 @Html.DisplayFor(modelItem => item.Name)

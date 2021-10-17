@@ -5,10 +5,9 @@ using System.Threading.Tasks;
 
 namespace ECommerce1.Data.Enums
 {
-    public enum ProductCategoryEnum
+    public enum GenderEnum
     {
-        Shoes = 1,
-        Clothing = 2,
-        Accessories = 3
+        Men = 1,
+        Women = 2,
     }
 }
