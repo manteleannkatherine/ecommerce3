@@ -10,48 +10,85 @@
 
 <div class="page-body">
     <div class="row">
-        <div class="table-responsive-md col-12">
-            <table class="table">
-                <thead>
-                    <tr class="text-center">
-                        <th>#</th>
-                        <th>Image</th>
-                        <th>@Html.DisplayNameFor(model => model.Name)</th>
-                        <th>@Html.DisplayNameFor(model => model.Description)</th>
-                        <th>Actions</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    @foreach (var item in Model)
-                    {
+        <div class="col">
+            <div class="table-responsive-md col-xl-auto">
+                <table class="table">
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="align-middle col-lg-3" rowspan="5">
+                                    <img alt="@item.Name" src="@String.Format("data:image/jpg;base64,{0}", item.Image)" width="150" height="150" />
+                                </td>
+                                <td class="align-middle">
+                                    <strong>@Html.DisplayFor(modelItem => item.Name)</strong>
+                                </td>
+                                <td class="align-middle col-2" rowspan="5">
+                                    <div class="btn"><strong>&nbsp;EDIT ITEM</strong></div>
+                                    <div class="btn"><strong>&nbsp;DELETE ITEM</strong></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="align-middle col-lg-auto">
+                                    <strong>@Html.DisplayFor(modelItem => item.Description)</strong>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="align-middle col-lg-auto">
+                                    VARIANTS: S, M, L
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="align-middle col-lg-auto">
+                                    AVAILABLE SIZES: @Html.DisplayFor(modelItem => item.Id)
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="align-middle col-lg-auto">
+                                    STOCKS LEFT: @Html.DisplayFor(modelItem => item.Id)
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        @*Stock Count*@
+        <div class="col col-xl-3">
+            <div class="table-responsive-md">
+                <table class="table">
+                    <thead>
+                        <tr class="text-center">
+                            <th colspan="2">Stock Count</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Take(2))
+                        {
                         <tr>
-                            <td class="align-middle col-lg-auto">
-                                @Html.DisplayFor(modelItem => item.Id)
+                            <td class="align-middle" rowspan="2">
+                                <img alt="@item.Name" src="@String.Format("data:image/jpg;base64,{0}", item.Image)" width="100" height="100" />
                             </td>
-                            <td class="align-middle col-lg-auto">
-                                <img alt="@item.Name" src="@String.Format("data:image/jpg;base64,{0}", item.Image)" width="150" height="150" />
-                            </td>
-                            <td class="align-middle col-lg-auto">
+                            <td class="align-middle">
                                 @Html.DisplayFor(modelItem => item.Name)
                             </td>
-                            <td class="align-middle col-lg-auto">
-                                @Html.DisplayFor(modelItem => item.Description)
-                            </td>
-                            <td class="align-middle col-lg-auto">
-                                <a class="btn btn-info bi bi-eye text-white">&nbsp;View</a>
-                                <a class="btn btn-primary bi bi-pencil-square text-white">&nbsp;Edit</a>
-                                <a class="btn btn-danger bi bi-trash text-white">&nbsp;Delete</a>
+                        </tr>
+                        <tr>
+                            <td class="align-middle">
+                                <font color="#ff0000"><strong>STOCKS LEFT: @Html.DisplayFor(modelItem => item.Id)</strong></font>
                             </td>
                         </tr>
-                    }
-                </tbody>
-            </table>
+                        }
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
 </div>
 
 
-<div class="text-white" style="position: fixed; right: 25px; bottom: 25px">
+<div class="text-white" style="position: fixed; right: 25px; top: 25px">
     <a asp-controller="Products" asp-action="CreateProduct" class="btn btn-success">
         <i class="bi bi-plus-circle"></i>&nbsp;Add New Product
     </a>

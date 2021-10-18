@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -39,6 +38,12 @@ namespace ECommerce1.Models
         [NotMapped]
         [Display(Name = "Upload Image File")]
         public IFormFile ImageFile { get; set; }
+
+        public bool IsFeaturedProduct { get; set; }
+
+        public IEnumerable<ProductImage> ProductImages { get; set; }
+
+        public long StockQty { get; set; }
 
     }
 }
