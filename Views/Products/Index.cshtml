@@ -9,6 +9,12 @@
 </div>
 
 <div class="page-body">
+    <div class="text-white" style="position: fixed; right: 25px; top: 25px">
+        <a asp-controller="Products" asp-action="CreateProduct" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i>&nbsp;Add New Product
+        </a>
+    </div>
+
     <div class="row">
         <div class="col">
             <div class="table-responsive-md col-xl-auto">
@@ -24,8 +30,11 @@
                                     <strong>@Html.DisplayFor(modelItem => item.Name)</strong>
                                 </td>
                                 <td class="align-middle col-2" rowspan="5">
-                                    <div class="btn"><strong>&nbsp;EDIT ITEM</strong></div>
-                                    <div class="btn"><strong>&nbsp;DELETE ITEM</strong></div>
+                                    <div class="btn">
+                                        <strong>
+                                            <a asp-controller="Products" asp-action="UpdateProduct" class="btn btn-block">&nbsp;UPDATE PRODUCT</a>
+                                        </strong></div>
+                                    <div class="btn btn-block"><strong>&nbsp;DELETE PRODUCT</strong></div>
                                 </td>
                             </tr>
                             <tr>
@@ -35,17 +44,17 @@
                             </tr>
                             <tr>
                                 <td class="align-middle col-lg-auto">
-                                    VARIANTS: S, M, L
+                                    VARIANTS: --
                                 </td>
                             </tr>
                             <tr>
                                 <td class="align-middle col-lg-auto">
-                                    AVAILABLE SIZES: @Html.DisplayFor(modelItem => item.Id)
+                                    AVAILABLE SIZES: --
                                 </td>
                             </tr>
                             <tr>
                                 <td class="align-middle col-lg-auto">
-                                    STOCKS LEFT: @Html.DisplayFor(modelItem => item.Id)
+                                    STOCKS LEFT: --
                                 </td>
                             </tr>
                         }
@@ -66,30 +75,23 @@
                     <tbody>
                         @foreach (var item in Model.Take(2))
                         {
-                        <tr>
-                            <td class="align-middle" rowspan="2">
-                                <img alt="@item.Name" src="@String.Format("data:image/jpg;base64,{0}", item.Image)" width="100" height="100" />
-                            </td>
-                            <td class="align-middle">
-                                @Html.DisplayFor(modelItem => item.Name)
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="align-middle">
-                                <font color="#ff0000"><strong>STOCKS LEFT: @Html.DisplayFor(modelItem => item.Id)</strong></font>
-                            </td>
-                        </tr>
+                            <tr>
+                                <td class="align-middle" rowspan="2">
+                                    <img alt="@item.Name" src="@String.Format("data:image/jpg;base64,{0}", item.Image)" width="100" height="100" />
+                                </td>
+                                <td class="align-middle">
+                                    @Html.DisplayFor(modelItem => item.Name)
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="align-middle">
+                                    <font color="#ff0000"><strong>STOCKS LEFT: --</strong></font>
+                                </td>
+                            </tr>
                         }
                     </tbody>
                 </table>
             </div>
         </div>
     </div>
-</div>
-
-
-<div class="text-white" style="position: fixed; right: 25px; top: 25px">
-    <a asp-controller="Products" asp-action="CreateProduct" class="btn btn-success">
-        <i class="bi bi-plus-circle"></i>&nbsp;Add New Product
-    </a>
 </div>

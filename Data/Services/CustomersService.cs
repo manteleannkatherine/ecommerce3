@@ -3,6 +3,7 @@ using ECommerce1.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace ECommerce1.Data.Services
@@ -41,6 +42,17 @@ namespace ECommerce1.Data.Services
         public Customers UpdateCustomer(long Id, Customers customers)
         {
             throw new NotImplementedException();
+        }
+
+        public Customers InitializeCustomer()
+        {
+            var _result = new Customers()
+            {
+                Genders = _context.Genders.ToList()
+            };
+
+            return _result;
+
         }
     }
 }

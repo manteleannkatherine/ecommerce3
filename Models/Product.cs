@@ -10,7 +10,6 @@ namespace ECommerce1.Models
     {
         [Key]
         public long Id { get; set; }
-
         public DateTime DateCreated { get; set; }
 
         [Required(ErrorMessage = "Description is required")]
@@ -19,31 +18,41 @@ namespace ECommerce1.Models
 
         [Required(ErrorMessage = "Name is required")]
         public string Name { get; set; }
-
-        [Required]
-        [Display(Name = "Category")]
-        public int ProductCategoryId { get; set; }
-        public IEnumerable<ProductCategory> ProductCategories { get; set; }
+        public int ColorId { get; set; }
 
         [Required]
         [Display(Name = "Status")]
         public int StatusId { get; set; }
-        public IEnumerable<Status> Statuses { get; set; }
 
         [Required]
         [Display(Name = "Gender")]
         public int GenderId { get; set; }
-        public IEnumerable<Gender> Genders { get; set; }
 
         [NotMapped]
-        [Display(Name = "Upload Image File")]
+        [Display(Name = "Upload Image")]
         public IFormFile ImageFile { get; set; }
 
         public bool IsFeaturedProduct { get; set; }
 
-        public IEnumerable<ProductImage> ProductImages { get; set; }
-
+        [Required]
+        [Display(Name = "Quantity")]
         public long StockQty { get; set; }
+
+        [Required]
+        [Display(Name = "Category")]
+        public int ProductCategoryId { get; set; }
+
+        public int SizeId { get; set; }
+
+        #region Enumerables
+        public IEnumerable<Color> Colors { get; set; }
+        public IEnumerable<Gender> Genders { get; set; }
+        public IEnumerable<ProductCategory> ProductCategories { get; set; }
+        public IEnumerable<ProductImage> ProductImages { get; set; }
+        public IEnumerable<ProductVariant> ProductVariants { get; set; }
+        public IEnumerable<Status> Statuses { get; set; }
+        public IEnumerable<Size> Sizes { get; set; }
+        #endregion Enumerables
 
     }
 }

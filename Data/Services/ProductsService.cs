@@ -47,9 +47,11 @@ namespace ECommerce1.Data.Services
         public Product InitializeProduct() {
             var _result = new Product()
             {
+                Colors = _context.Colors.OrderBy(x => x.Id).ToList(),
+                Genders = _context.Genders.ToList(),
                 ProductCategories =  _context.ProductCategories.ToList(),
-                Statuses =  _context.Statuses.ToList(),
-                Genders =  _context.Genders.ToList()
+                Sizes = _context.Sizes.OrderBy(x => x.Id).ToList(),
+                Statuses =  _context.Statuses.OrderBy(x => x.Id).ToList()
             };
 
          return _result;

@@ -9,58 +9,41 @@
 </div>
 
 <div class="page-body">
+    <div class="text-white" style="position: fixed; right: 25px; top: 25px">
+        <a asp-controller="Customers" asp-action="CreateCustomer" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i>&nbsp;Add New Customer
+        </a>
+    </div>
+
     <div class="row">
-        <div class="table-responsive-md col-12">
-            <table class="table">
-                <thead>
-                    <tr class="text-center">
-                        <th>#</th>
-                        <th>Image</th>
-                        <th>First Name</th>
-                        <th>Last Name</th>
-                        <th>Birthday</th>
-                        <th>E-mail</th>
-                        <th>Actions</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    @foreach (var item in Model)
-                    {
-                    <tr>
-                        <td class="align-middle col-lg-auto">
-                            @Html.DisplayFor(modelItem => item.CustomerID)
-                        </td>
-                        <td class="align-middle col-lg-auto">
-                            <img style="max-width: 150px" src="@item.Image" />
-                        </td>
-                        <td class="align-middle col-lg-auto">
-                            @Html.DisplayFor(modelItem => item.CustomerFirstName)
-                        </td>
-                        <td class="align-middle col-lg-auto">
-                            @Html.DisplayFor(modelItem => item.CustomerLastName)
-                        </td>
-                        <td class="align-middle col-lg-auto">
-                            @Html.DisplayFor(modelItem => item.CustomerBirthday)
-                        </td>
-                        <td class="align-middle col-lg-auto">
-                            @Html.DisplayFor(modelItem => item.CustomerEmail)
-                        </td>
-                        <td class="align-middle col-lg-auto">
-                            <a class="btn btn-info bi bi-eye text-white">&nbsp;View</a>
-                            <a class="btn btn-primary bi bi-pencil-square text-white">&nbsp;Edit</a>
-                            <a class="btn btn-danger bi bi-trash text-white">&nbsp;Delete</a>
-                        </td>
-                    </tr>
-                    }
-                </tbody>
-            </table>
+        <div class="col">
+            <div class="table-responsive-md col-xl-auto">
+                <table class="table">
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                        <tr>
+                            <td class="align-middle col-lg-3">
+                                <img alt="@item.CustomerFirstName" src="@String.Format("data:image/jpg;base64,{0}", item.Image)" width="150" height="150" />
+                            </td>
+                            <td class="align-middle">
+                                <strong>@Html.DisplayFor(modelItem => item.CustomerLastName)</strong>
+                            </td>
+                            <td class="align-middle col-2">
+                                <div class="btn">
+                                    <strong>
+                                        <a asp-controller="Customers" asp-action="UpdateCustomer" class="btn btn-block">&nbsp;UPDATE ACCOUNT</a>
+                                    </strong>
+                                </div>
+                            </td>
+                            <td class="align-middle col-2">
+                                <div class="btn btn-block"><strong>&nbsp;DELETE ACCOUNT</strong></div>
+                            </td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
-</div>
-
-
-<div class="text-white" style="position: fixed; right: 25px; bottom: 25px">
-    <a asp-controller="Customers" asp-action="CreateCustomer" class="btn btn-success">
-        <i class="bi bi-plus-circle"></i>&nbsp;Add New Customer
-    </a>
 </div>

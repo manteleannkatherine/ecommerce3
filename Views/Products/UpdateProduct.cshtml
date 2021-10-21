@@ -1,21 +1,22 @@
 ﻿@model Product
 
 @{
-    ViewData["Title"] = "Add New Product";
+    ViewData["Title"] = "Update Product";
 }
 
 <div class="row text">
     <div class="col-md-10 offset-md-1">
         <p>
-            <h4>Add Product</h4>
+            <h4>Update Product</h4>
         </p>
 
-        <form asp-action="CreateProduct" enctype="multipart/form-data">
+        <form asp-action="UpdateProduct" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
             <div class="form-group">
                 <a class="btn btn-outline-secondary" asp-action="Index">Show All</a>
-                <input type="submit" value="Create" class="btn btn-success float-right" />
+                <input type="submit" value="Update" class="btn btn-success float-right" />
+                <input type="submit" value="Delete" class="btn btn-danger float-right" />
             </div>
 
             @*Tab Nav*@

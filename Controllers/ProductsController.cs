@@ -57,5 +57,15 @@ namespace ECommerce1.Controllers
             _service.CreateProduct(product);
             return RedirectToAction(nameof(Index));
         }
+
+        [HttpPatch]
+        public async Task<IActionResult> UpdateProduct([Bind("Name,Description,ImageId,Title,ImageFile,ProductCategoryId,StatusId,GenderId")] Product product)
+        {
+            if (!ModelState.IsValid)
+                return View(product);
+
+            _service.CreateProduct(product);
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
