@@ -13,6 +13,9 @@ namespace ECommerce1.Models
         [Display(Name = "Email")]
         public string EmployeeEmail { get; set; }
 
+        [Display(Name = "Username")]
+        public string Username { get; set; }
+
         [Display(Name = "Password")]
         public string EmployeePass { get; set; }
 

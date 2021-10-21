@@ -1,10 +1,7 @@
 ﻿using ECommerce1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace ECommerce1.Controllers
@@ -19,6 +16,40 @@ namespace ECommerce1.Controllers
         }
 
         public IActionResult Index()
+        {
+            return RedirectToAction("Index","StoreFront");
+        }
+
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        public IActionResult UnderConstruction()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login([Bind("Username,EmployeePass")] Employees employees)
+        {
+            try
+            {
+                if (employees.Username.ToLower() == "administrator")
+                {
+                    return RedirectToAction("Index", "Administrator");
+                }
+                else
+                {
+                    return RedirectToAction(nameof(Index));
+                }
+            }
+            catch
+            {
+                return RedirectToAction();
+            }
+        }
+        public IActionResult Registration()
         {
             return View();
         }
